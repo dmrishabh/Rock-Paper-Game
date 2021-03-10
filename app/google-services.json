@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "593073997260",
+    "firebase_url": "https://myapp-deb4c-default-rtdb.firebaseio.com",
+    "project_id": "myapp-deb4c",
+    "storage_bucket": "myapp-deb4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593073997260:android:ea00be6d4f24ab38490969",
+        "android_client_info": {
+          "package_name": "com.example.rockpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593073997260-a7aoduscnqj4jg82elboio06ar3ik44f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFBlbW2yho5JeSoLrAfYhU7Sv6KkfFt3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593073997260-a7aoduscnqj4jg82elboio06ar3ik44f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
